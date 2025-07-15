@@ -124,6 +124,6 @@
 
 </details>
 
-{% embed url="https://youtu.be/r9Cpyun3d6A" %}
+[video:https://youtu.be/r9Cpyun3d6A" %}
 
-{% embed url="https://rutube.ru/video/6b2e5bf4666394267a69e002f2974447/" %}
+[video:https://rutube.ru/video/6b2e5bf4666394267a69e002f2974447/" %}
