@@ -6,7 +6,7 @@
 * Нажать кнопку Signatures (Подписи) в панели слева
 * Выбрать электронную подпись, которую следует проверить, и нажать правую кнопку мыши. В открывшемся контекстном меню выбрать пункт Validate Signature (Проверить подпись).
 
-![](<../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (59).png>)
 
 
 
@@ -14,7 +14,7 @@
 
 Подпись будет иметь один из следующих статусов:
 
-![](<../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (61).png>)
 
 :::info
 

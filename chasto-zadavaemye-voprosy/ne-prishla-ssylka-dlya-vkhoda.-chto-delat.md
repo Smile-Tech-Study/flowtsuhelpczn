@@ -6,13 +6,13 @@
 
 2. Если письмо не нашлось - попробуйте перейти по [ссылке](https://2025.flow.tgu-dpo.ru/Account/ForgotPassword) и запросить[ ](https://2024.flow.tgu-dpo.ru/Account/ForgotPassword) новую ссылку для восстановления пароля.&#x20;
 
-![](<../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (52).png>)
 
 Если вы ввели адрес электронной почты и получили сообщение "Пользователь не найден", значит, вас ещё не зарегистрировали или в вашей почте ошибка.&#x20;
 
 Узнать, зарегистрированы ли вы, возможно в технической поддержке по ссылке [https://tgu-dpo.ru/form](https://tgu-dpo.ru/form)
 
-![](<../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (37).png>)
 
 3. Настройки вашего почтового домена не пропускают письма от info@tgu-dpo.ru  (вы пытаетесь восстановить пароль по ссылке [https://2025.flow.tgu-dpo.ru/Account/ForgotPassword](https://2025.flow.tgu-dpo.ru/Account/ForgotPassword), письмо отправляется, но его в почтовом ящике нет), в этом случае необходимо написать на [cc@dpo.tsu.ru](mailto:cc@dpo.tsu.ru)  письмо для замены рабочей почты на личную в вашем профиле.&#x20;
 

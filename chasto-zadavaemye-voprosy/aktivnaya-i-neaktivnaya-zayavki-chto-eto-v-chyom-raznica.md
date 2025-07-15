@@ -18,4 +18,4 @@
 
 :::
 
-![](<../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (12).png>)
