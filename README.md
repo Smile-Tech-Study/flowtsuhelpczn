@@ -12,7 +12,8 @@ description: >-
 
 {% hint style="info" %}
 Данный личный кабинет представителя СЗН предназначен для проверки документов пользователей.&#x20;
-{% endhint %}
+
+:::
 
 ### Регистрация
 
@@ -28,7 +29,8 @@ description: >-
 
 {% hint style="info" %}
 Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля [https://2025.flow.tgu-dpo.ru/Account/ForgotPassword](https://2025.flow.tgu-dpo.ru/Account/ForgotPassword)
-{% endhint %}
+
+:::
 
 {% embed url="https://youtu.be/KloBtbz6C1U" %}
 
