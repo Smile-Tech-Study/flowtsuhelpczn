@@ -22,7 +22,7 @@ description: >-
 
 По предоставленному списку  для каждого региона будет зарегистрирован представитель. После регистрации ему на почту будет отправлено письмо со ссылкой для установки пароля.
 
-<figure><img src=".gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Логин  - электронная почта, на которую пришло письмо.
 
