@@ -16,7 +16,8 @@
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Если установлен КриптоПро PDF, то можно локально через Adobe Acrobat также  смотреть ЭП.
 
 :::
