@@ -37,7 +37,7 @@ order: 0.2
 
 -  [Как проверить прикрепленную подпись?](./chasto-zadavaemye-voprosy/kak-proverit-prikreplennuyu-podpis)
 
--  [Справка на ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
+-  Справка на ЛК гражданина
 
 -  [Инструкции портала "Работа России"](./chasto-zadavaemye-voprosy/instrukcii-portala-rabota-rossii)
 
