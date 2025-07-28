@@ -37,7 +37,7 @@ order: 0.2
 
 -  [Как проверить прикрепленную подпись?](./chasto-zadavaemye-voprosy/kak-proverit-prikreplennuyu-podpis)
 
--  Справка на ЛК гражданина
+-  [Справка на ЛК гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
 
 -  [Инструкции портала "Работа России"](./chasto-zadavaemye-voprosy/instrukcii-portala-rabota-rossii)
 
