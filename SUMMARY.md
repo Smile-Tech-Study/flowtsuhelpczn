@@ -42,5 +42,3 @@ order: 0.2
 -  [Инструкции портала "Работа России"](./chasto-zadavaemye-voprosy/instrukcii-portala-rabota-rossii)
 
 -  [Как войти с Яндекс ID](./chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuch)
-
-
