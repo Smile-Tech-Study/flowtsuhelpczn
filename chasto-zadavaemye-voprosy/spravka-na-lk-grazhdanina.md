@@ -1,8 +1,8 @@
 ---
 order: 5.5
-title: Справка на ЛК гражданина
+title: Справка про ЛК гражданина
 ---
 
-[Справка на ЛК гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
+[Справка про ЛК гражданина](https://www.flow-crm.study/flowtsuhelpgr)
 
 
