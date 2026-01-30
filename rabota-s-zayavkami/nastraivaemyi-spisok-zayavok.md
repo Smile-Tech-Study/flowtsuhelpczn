@@ -86,6 +86,6 @@ order: 1
 
 :::
 
-[video:https://youtu.be/_2ioSTtmvNA]
-
 [video:https://rutube.ru/video/042a196a2ffdb32929940c796b855943/]
+
+[video:https://youtu.be/_2ioSTtmvNA]
