@@ -126,3 +126,7 @@ title: Страница заявки
 [/tab]
 
 [/tabs]
+
+[video:https://rutube.ru/video/6b2e5bf4666394267a69e002f2974447/?r=wd]
+
+[video:https://youtu.be/r9Cpyun3d6A]
