@@ -27,7 +27,7 @@ order: 0.2
 
 ## ⁉️ Часто задаваемые вопросы
 
--  [Не пришла ссылка для входа. Что делать?](./chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat)
+-  [Не пришла ссылка для входа. Что делать?](https://www.flow-crm.study/flowtsuhelpczn/chasto-zadavaemye-voprosy/ne-prishla-ssylka-dlya-vkhoda.-chto-delat)
 
 -  [Как мне узнать свой логин и пароль](./chasto-zadavaemye-voprosy/kak-mne-uznat-svoi-login-i-parol)
 
@@ -41,6 +41,6 @@ order: 0.2
 
 -  [Инструкции портала "Работа России"](./chasto-zadavaemye-voprosy/instrukcii-portala-rabota-rossii)
 
--  [Как войти с Яндекс ID](./chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuch)
+-  [Как войти с Яндекс ID](https://www.flow-crm.study/flowtsuhelpczn/chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuch)
 
 
