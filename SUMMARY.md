@@ -9,7 +9,7 @@ order: 0.2
 
 ## Заявка
 
--  [Страница заявки](./zayavka/stranica-zayavki)
+-  [Страница заявки](./zayavka/stranica-zayavki-2)
 
 ## Работа с заявками
 
@@ -42,5 +42,3 @@ order: 0.2
 -  [Инструкции портала "Работа России"](./chasto-zadavaemye-voprosy/instrukcii-portala-rabota-rossii)
 
 -  [Как войти с Яндекс ID](https://www.flow-crm.study/flowtsuhelpczn/chasto-zadavaemye-voprosy/kak-voiti-s-yandeks.klyuch)
-
-
