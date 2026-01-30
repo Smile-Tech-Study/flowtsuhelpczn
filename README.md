@@ -28,11 +28,11 @@ order: 1.2
 
 Логин  - электронная почта, на которую пришло письмо.
 
-Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)[https://2026.flow.tgu-dpo.ru/Account/Login](https://2026.flow.tgu-dpo.ru/Account/Login)
+Ссылка для входа в личный кабинет ФО ТГУ -[ ](https://2023.flow.tgu-dpo.ru/Account/Login)<https://2026.flow.tgu-dpo.ru/Account/Login>
 
 :::info 
 
-Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля [https://2026.flow.tgu-dpo.ru/Account/ForgotPassword](https://2026.flow.tgu-dpo.ru/Account/ForgotPassword)
+Ссылка на вход действует 5 суток, если за это время вы не перешли по ней, запросите новую ссылку через восстановление пароля <https://2026.flow.tgu-dpo.ru/Account/ForgotPassword>
 
 :::
 
@@ -57,3 +57,5 @@ order: 1.2
 7. Также доступен просмотр информации об [успеваемости/посещаемости](./rabota-s-zayavkami/informaciya-ob-uspevaemosti-poseshaemosti).
 
 8. Всегда можно посмотреть [ранее одобренные программы](./programmy/otobrazhenie-odobrennykh-programm-dlya-roiv).
+
+
